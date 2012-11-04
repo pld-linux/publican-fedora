@@ -4,7 +4,7 @@ Name:		publican-fedora
 Version:	2.0
 Release:	1
 License:	CC-BY-SA
-Group:		Development/Libraries
+Group:		Development/Tools
 Source0:	https://fedorahosted.org/releases/p/u/publican/%{name}-%{version}.tgz
 # Source0-md5:	0492f961ac830898a6b763d9ef90a6a4
 URL:		https://publican.fedorahosted.org
